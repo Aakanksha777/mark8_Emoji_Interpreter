@@ -1,0 +1,39 @@
+/* * {
+  background-color: black;
+  color: aliceblue;
+  font-family: cursive;
+} */
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+input {
+  padding: 2em;
+  margin: 1em;
+  font-size: 20px;
+}
+h2 {
+  font-size: 35px;
+  font-family: cursive;
+  letter-spacing: 2px;
+  color: olive;
+}
+h4 {
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.input1 {
+  display: flex;
+  background-color: lightgrey;
+  font-size: 32px;
+  padding: 1em;
+  margin: 1em;
+}
